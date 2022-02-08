@@ -1,0 +1,42 @@
+﻿@model IEnumerable<WebWerehouse.Models.UsersViewModel>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>Список сотрудников</h1>
+
+<p>
+    <a asp-action="Create">Добавить сотрудника</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lastname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lastname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
