@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Степан\\Desktop\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj": {}
+    "C:\\Users\\Степан\\Desktop\\Учёба\\Программирование\\3Курс\\C# projects\\WebWerehouse\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Степан\\Desktop\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj": {
+    "C:\\Users\\Степан\\Desktop\\Учёба\\Программирование\\3Курс\\C# projects\\WebWerehouse\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Степан\\Desktop\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj",
+        "projectUniqueName": "C:\\Users\\Степан\\Desktop\\Учёба\\Программирование\\3Курс\\C# projects\\WebWerehouse\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj",
         "projectName": "WebWerehouse",
-        "projectPath": "C:\\Users\\Степан\\Desktop\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj",
+        "projectPath": "C:\\Users\\Степан\\Desktop\\Учёба\\Программирование\\3Курс\\C# projects\\WebWerehouse\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj",
         "packagesPath": "C:\\Users\\Степан\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Степан\\Desktop\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\obj\\",
+        "outputPath": "C:\\Users\\Степан\\Desktop\\Учёба\\Программирование\\3Курс\\C# projects\\WebWerehouse\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

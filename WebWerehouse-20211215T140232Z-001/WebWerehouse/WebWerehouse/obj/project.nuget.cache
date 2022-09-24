@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NHlBHE5yg5WZlVKfIOtkpqzSGOG+yUisv7iCA1vybzvYVmPJtxfnRazJ3sWtHI4N+c/YhGFI3EmhWyu4w8HVw==",
+  "dgSpecHash": "KgRdciXTRMVAPEiI2mBGNiGAqNnt/DUbDDaknXzvrVRnRdF7gQp7jqWOEIjQfuYUiBjnDF96MxRudiEYdfmcVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Степан\\Desktop\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj",
+  "projectFilePath": "C:\\Users\\Степан\\Desktop\\Учёба\\Программирование\\3Курс\\C# projects\\WebWerehouse\\WebWerehouse-20211215T140232Z-001\\WebWerehouse\\WebWerehouse\\WebWerehouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Степан\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Степан\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",
