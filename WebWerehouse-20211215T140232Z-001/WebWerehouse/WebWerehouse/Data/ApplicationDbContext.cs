@@ -16,7 +16,5 @@ namespace WebWerehouse.Data
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Сhemistry> Сhemistry { get; set; }
-        public DbSet<AddEmployee> AddEmployee { get; set; }
-        public DbSet<UsersViewModel> UsersViewModel { get; set; }
     }
 }

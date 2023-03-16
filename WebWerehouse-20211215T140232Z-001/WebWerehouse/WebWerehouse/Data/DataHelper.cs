@@ -25,6 +25,9 @@ namespace WebWerehouse.Data
             string password = "!Qwerty1";
             string[] rolesNames = { "storekeeper", "manager", "boss" };
             string[] usersNames = { "sklad@mail.ru", "manager@mail.ru", "boss@mail.ru" };
+            string[] usersFirstname = { "Ирина", "Андрей", "Павел" };
+            string[] usersLastname = { "Иванова", "Маркович", "Дроздов"};
+            string[] usersPost = { "Кладовщик", "Менеджер", "Директор" };
 
             for (int i = 0; i < rolesNames.Length; i++)
             {
@@ -41,7 +44,11 @@ namespace WebWerehouse.Data
                     {
                         var user = new AppUser()
                         {
-                            UserName = usersNames[i]
+                            UserName = usersNames[i],
+                            Email= usersNames[i],
+                            Firstname= usersFirstname[i],
+                            Lastname= usersLastname[i],
+                            Position = usersPost[i],
                         };
                         result = await userManager.CreateAsync(user, password);
                         if (result.Succeeded)
